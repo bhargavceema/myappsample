@@ -1,5 +1,8 @@
+// " for your information" -> "FYI"
+
 function getIntitials(name){
 	return name.split(' ')
-	  .map(word => word.charAT(0))
+	  .map(word => word.charAt(0).toUpperCase())
 	  .join(' ');
+
 }
