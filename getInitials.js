@@ -1,4 +1,4 @@
-// " for your information" -> "FYI"
+// "just for your information" -> "JFYI"
 
 function getIntitials(name){
 	return name.split(' ')

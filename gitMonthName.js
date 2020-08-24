@@ -4,6 +4,9 @@ function getMonthName(place){
 	'february'
 	'march'
 	'april'
+	'may'
+	'june'
+	'july'
 	
 	]
 }
